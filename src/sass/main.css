@@ -1,0 +1,18 @@
+.form-header {
+    font-weight: 900;
+    font-size: 18px;
+    text-transform: uppercase;
+    background-color: #01b3b3;
+    color: #fafafa;
+}
+
+.form {
+    border: 2px solid #01b3b3;
+    margin-top: 200px;
+    padding: 50px;
+}
+
+.btn-large {
+    font-size: 19px;
+    background-color: #01b3b3;
+}
